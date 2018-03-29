@@ -1,0 +1,2 @@
+#Housholder is a class that uses the Refelection class to decompose a matrix A into vectors and reflect them through a plane such that they aare represented only by a vector that contains one coordinate and the rest are zeros
+ 
