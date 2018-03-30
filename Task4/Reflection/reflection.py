@@ -1,4 +1,3 @@
-import numpy as np
 class Reflection:
     """
     Class for calculating the reflection of a, through the orthogonal matrix of v 
